@@ -4,7 +4,7 @@ Simple password generator written in C#.
 
 ## Purpose
 
-Навчитися працювати з Windows Forms/WPF (що саме було — допишеш), рядками та генерацією випадкових символів.
+Навчитися працювати з Windows Forms/WPF, рядками та генерацією випадкових символів.
 
 ## Features
 
